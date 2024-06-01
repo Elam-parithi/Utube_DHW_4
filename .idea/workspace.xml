@@ -6,8 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="71f2d7b7-05d5-4b15-b08a-1c2f0d8deb16" name="Changes" comment="syncing pycharm profile setting to so, it will help on running on different environment.">
       <change afterPath="$PROJECT_DIR$/Utube testing.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secrets.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/youtube_extractor_testing.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dual_proces_cordiantor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Utube_website.py" beforeDir="false" afterPath="$PROJECT_DIR$/Utube_website.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,7 +138,7 @@
       <option name="presentableId" value="Default" />
       <updated>1717036471522</updated>
       <workItem from="1717036474890" duration="75296000" />
-      <workItem from="1717219383006" duration="16988000" />
+      <workItem from="1717219383006" duration="17860000" />
     </task>
     <task id="LOCAL-00001" summary="This the forth version Utube Data Harvesting and Warehousing project.">
       <option name="closed" value="true" />
@@ -155,7 +156,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717284807212</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="syncing pycharm profile setting to so, it will help on running on different environment.">
+      <option name="closed" value="true" />
+      <created>1717285166167</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1717285166167</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

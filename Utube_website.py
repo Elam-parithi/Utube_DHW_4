@@ -1,12 +1,15 @@
+import logging
+
+import pandas as pd
 import streamlit as st
+from annotated_text import annotated_text
 from streamlit_option_menu import option_menu
 from streamlit_tags import st_tags
-import youtube_extractor as yt
-from youtube_extractor import check_api_key
-from annotated_text import annotated_text
+
 import data_con as my_sql
-import pandas as pd
-import logging
+import youtube_extractor as yt
+import secrets as temp_credentials
+from youtube_extractor import check_api_key
 
 logging.basicConfig(filename="Utube_website.log",
                     format='%(asctime)s %(message)s',
@@ -14,15 +17,15 @@ logging.basicConfig(filename="Utube_website.log",
 log = logging.getLogger()
 log.setLevel(logging.DEBUG)
 
-API_key = None
-SQL_host = '192.168.0.114'
-SQL_port = 3307
-SQL_user = 'root'
-SQL_pswd = '1king#lanka'
-SQL_DB = 'Utube_DHW4'
+API_key = temp_credentials.api_key
+SQL_host = temp_credentials.SQL_host
+SQL_port = temp_credentials.SQL_port
+SQL_user = temp_credentials.SQL_user
+SQL_pswd = temp_credentials.SQL_pswd
+SQL_DB = temp_credentials.SQL_DB
 
 if "API_key" not in st.session_state:
-    st.session_state["API_key"] = "AIzaSyDTWL7cVqvBC4lmGjr3RJUeC6CvYktcr6w"
+    st.session_state["API_key"] = API_key
 if "API_key_pass" not in st.session_state:
     st.session_state["API_key_pass"] = False
 if "Active_SQL_connection" not in st.session_state:
