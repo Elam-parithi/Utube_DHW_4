@@ -8,7 +8,6 @@
       <change afterPath="$PROJECT_DIR$/Utube testing.ipynb" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/youtube_extractor_testing.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +69,7 @@
     "Python.Utube_website.executor": "Run",
     "Python.data_con.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.secrets.executor": "ConcurrencyExecutor",
     "Python.youtube_extractor.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -144,7 +144,7 @@
       <option name="presentableId" value="Default" />
       <updated>1717036471522</updated>
       <workItem from="1717036474890" duration="75296000" />
-      <workItem from="1717219383006" duration="20945000" />
+      <workItem from="1717219383006" duration="21602000" />
     </task>
     <task id="LOCAL-00001" summary="This the forth version Utube Data Harvesting and Warehousing project.">
       <option name="closed" value="true" />
@@ -194,7 +194,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717288173762</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="README.md file added.">
+      <option name="closed" value="true" />
+      <created>1717289210088</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1717289210088</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -212,6 +220,7 @@
     <SUITE FILE_PATH="coverage/Utube_DHW_4$Utube_website.coverage" NAME="Utube_website Coverage Results" MODIFIED="1717282739829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Utube_DHW_4$Analyzer.coverage" NAME="Analyzer Coverage Results" MODIFIED="1717044573904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Utube_DHW_4$youtube_extractor.coverage" NAME="youtube_extractor Coverage Results" MODIFIED="1717282954120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Utube_DHW_4$secrets.coverage" NAME="secrets Coverage Results" MODIFIED="1717289251699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Utube_DHW_4$main.coverage" NAME="main Coverage Results" MODIFIED="1717282430806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
