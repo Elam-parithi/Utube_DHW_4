@@ -1,10 +1,19 @@
-# YouTube Data Harvesting and Warehousing using SQL and Streamlit (Version 4)
+# YouTube Data Harvesting and Warehousing
 
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=social) [Elamparithi T](https://www.linkedin.com/in/elamparithi-t/)
 
 ## Overview
 
 This project focuses on harvesting data from YouTube and warehousing it using SQL, with a frontend interface built using Streamlit. It allows users to efficiently collect, store, and analyze YouTube data.
+
+## Tech used
+- MySQL 
+- Streamlit
+- Google YouTube API
+- NLTK (Natural Language Toolkit)
+- pandas
+- matplotlib and Seaborn 
+
 
 ## Features
 
