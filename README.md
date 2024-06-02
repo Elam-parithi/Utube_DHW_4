@@ -1,3 +1,4 @@
+
 # YouTube Data Harvesting and Warehousing
 
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=social) [Elamparithi T](https://www.linkedin.com/in/elamparithi-t/)
@@ -17,9 +18,11 @@ This project focuses on harvesting data from YouTube and warehousing it using SQ
 
 ## Features
 
+- Multi page streamlit website with ability to get credentials for user.
 - Harvest YouTube data using the YouTube API
 - Store data in an SQL database
 - Interactive dashboards and data visualization using Streamlit
+- comment `sentiment analysis` on the same page. 
 
 ## Getting Started
 
@@ -28,7 +31,7 @@ This project focuses on harvesting data from YouTube and warehousing it using SQ
 - Make sure you have Python installed on your system. You can download it from [python.org](https://www.python.org/).
 - Create a project and obtain YouTube Data API v3 API key from [Google Developers Console](https://console.developers.google.com/)
 - you also need Access credentials to SQL DB. anything similar to MySQL would be better.
-- 
+- And little knowledge on how to use those tech mentioned above.
 
 
 ### Setup
@@ -70,12 +73,20 @@ This project focuses on harvesting data from YouTube and warehousing it using SQ
 
 To run the application, initiate `main.py`:
 
-    ```bash
-    python main.py
-    ```
+   ```bash
+   python run main.py
+   ```
 
 OR directly run the application file `Utube_website.py`:
 
-    ```bash
-    streamlit run main.py
-    ```
+   ```bash
+   streamlit run Utube_website.py
+   ```
+
+
+## Contact
+
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/elamparithi-t/).
+
+---
+Developed by Elamparithi T

@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71f2d7b7-05d5-4b15-b08a-1c2f0d8deb16" name="Changes" comment="syncing pycharm profile setting to so, it will help on running on different environment.">
+    <list default="true" id="71f2d7b7-05d5-4b15-b08a-1c2f0d8deb16" name="Changes" comment="README.md file added.">
       <change afterPath="$PROJECT_DIR$/Utube testing.ipynb" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/youtube_extractor_testing.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +24,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
@@ -41,7 +49,7 @@
     <setting file="file://$PROJECT_DIR$/youtube_extractor.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -136,7 +144,7 @@
       <option name="presentableId" value="Default" />
       <updated>1717036471522</updated>
       <workItem from="1717036474890" duration="75296000" />
-      <workItem from="1717219383006" duration="19775000" />
+      <workItem from="1717219383006" duration="20945000" />
     </task>
     <task id="LOCAL-00001" summary="This the forth version Utube Data Harvesting and Warehousing project.">
       <option name="closed" value="true" />
@@ -178,7 +186,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717287750439</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="README.md file added.">
+      <option name="closed" value="true" />
+      <created>1717288173762</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1717288173762</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -188,7 +204,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="This the forth version Utube Data Harvesting and Warehousing project." />
     <MESSAGE value="syncing pycharm profile setting to so, it will help on running on different environment." />
-    <option name="LAST_COMMIT_MESSAGE" value="syncing pycharm profile setting to so, it will help on running on different environment." />
+    <MESSAGE value="README.md file added." />
+    <option name="LAST_COMMIT_MESSAGE" value="README.md file added." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Utube_DHW_4$data_con.coverage" NAME="data_con Coverage Results" MODIFIED="1717271497366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
