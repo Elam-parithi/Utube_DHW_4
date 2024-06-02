@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="71f2d7b7-05d5-4b15-b08a-1c2f0d8deb16" name="Changes" comment="syncing pycharm profile setting to so, it will help on running on different environment.">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Utube testing.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secrets.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/youtube_extractor_testing.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Utube_website.py" beforeDir="false" afterPath="$PROJECT_DIR$/Utube_website.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -138,7 +139,7 @@
       <option name="presentableId" value="Default" />
       <updated>1717036471522</updated>
       <workItem from="1717036474890" duration="75296000" />
-      <workItem from="1717219383006" duration="17860000" />
+      <workItem from="1717219383006" duration="19322000" />
     </task>
     <task id="LOCAL-00001" summary="This the forth version Utube Data Harvesting and Warehousing project.">
       <option name="closed" value="true" />
@@ -164,7 +165,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717285166167</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="syncing pycharm profile setting to so, it will help on running on different environment.">
+      <option name="closed" value="true" />
+      <created>1717286009277</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1717286009277</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
